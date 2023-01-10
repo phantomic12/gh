@@ -1,0 +1,4 @@
+builds every 8 hours
+git clone pkgbuilds and commit them
+matrix build packages and zip them into 100M parts
+git clone packages, repo add them and upload them to SF (potentially look into triggering cirrus workflow if total size is too large)
